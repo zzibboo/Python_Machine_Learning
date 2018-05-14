@@ -1,3 +1,3 @@
-# python_algorithms
+# python_machine_learning
 
-write algorithms by python
+practice using Python Machine Learning by Sebastian Raschka
